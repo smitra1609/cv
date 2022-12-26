@@ -1,0 +1,21 @@
+body{
+    background-color: #CEEDC7;
+}
+#theading{
+    
+        vertical-align: top;
+        text-align: left;
+        background-color: #FFD4B2;
+      
+}
+.tabledata{
+    
+    vertical-align: top;
+    text-align: left;
+    /* background-color: #FFD4B2; */
+  
+}
+.bio{
+    padding-left: 10px;
+    
+}
